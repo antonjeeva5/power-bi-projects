@@ -35,7 +35,7 @@
 
 
 
-![Sales Dashboard Screenshot]([https://github.com/antonjeeva5/power-bi-projects/blob/main/Online%20Sales%20Dashboard%20for%20Bemidji%20Crafts%20Co..png)
+![Sales Dashboard Screenshot](Online Sales Dashboard for Bemidji Crafts Co..png)
 
 
 
