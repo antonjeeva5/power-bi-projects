@@ -34,4 +34,3 @@
   **Dashboard Screenshot**
  ![**Sales Dashboard Screenshot**](https://github.com/antonjeeva5/power-bi-projects/blob/main/Online%20Sales%20Dashboard%20for%20Bemidji%20Crafts%20Co..png)
 
----
