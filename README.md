@@ -18,5 +18,4 @@
     This dynamic Power BI dashboard was developed to analyze and visualize online sales data for a local artisan shop. 
     The goal is to provide actionable insights into sales performance, product popularity, and customer behavior.
 
- ![**➡️View Project Details & Breakdown**](https://github.com/antonjeeva5/power-bi-projects/blob/main/Project%201:%20Online%20Sales%20Overview%20%E2%80%93%20Bemidji%20Crafts%20Co./README.md)
-
+ ➡️ [**View Project Details & Breakdown**](https://github.com/antonjeeva5/power-bi-projects/blob/main/Project%201:%20Online%20Sales%20Overview%20%E2%80%93%20Bemidji%20Crafts%20Co./README.md)
