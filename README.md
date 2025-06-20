@@ -18,38 +18,25 @@
     This dynamic Power BI dashboard was developed to analyze and visualize online sales data for a local artisan shop. 
     The goal is to provide actionable insights into sales performance, product popularity, and customer behavior.
 
- ➡️ [**View Project Details & Breakdown**](https://github.com/antonjeeva5/power-bi-projects/blob/main/Project%201:%20Online%20Sales%20Overview%20%E2%80%93%20Bemidji%20Crafts%20Co./README.md)
-
  <details>
   <summary><strong>➡️ View Project Details & Breakdown</strong></summary>
+
+## Key Features & Insights:
+
+       * Executive Summary: At-a-glance KPIs track overall performance, including Total Sales ($15.2K), Number of Transactions (200), and Average Order Value ($75.93).
+
+       * Sales Trend Analysis: A month-over-month comparison visualizes sales performance against the previous month, helping to identify seasonality and growth trends.
+
+       * Product Performance: Bar charts break down sales by category and individual product name, clearly highlighting best-selling items like "Woodcraft" and specific products such as the "Hand-Carved Loon Figurine."
+
+       * Customer Insights: A geographic map visualizes sales by customer location, revealing key markets in Minnesota and surrounding areas.
+
+       * Interactive Filtering: The dashboard is fully interactive, allowing users to filter the data by year, month, product category, and customer location for deeper analysis.
+
+![Skills Used](https://img.shields.io/badge/Skills%20Used%20:-FFFFFF?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-yellowgreen?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-yellowgreen?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-yellowgreen?style=flat-square) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-yellowgreen?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-yellowgreen?style=flat-square) ![Power Query](https://img.shields.io/badge/Power%20Query-yellowgreen?style=flat-square)
+
+  **Dashboard Screenshot**
+ ![**Sales Dashboard Screenshot**](https://github.com/antonjeeva5/power-bi-projects/blob/main/Online%20Sales%20Dashboard%20for%20Bemidji%20Crafts%20Co..png)
   
   ---
   
-  ### Project Breakdown: Retail Sales Performance
-  
-  ![Full Dashboard Screenshot](https://placehold.co/800x450/4F46E5/FFFFFF?text=Full+Retail+Dashboard)
-
-  #### Problem Statement
-  The primary goal was to create a dynamic dashboard for leadership to monitor sales and profitability. Key questions to answer included:
-  - What are the top-selling products and regions?
-  - How does profit margin change over time?
-  - Are we meeting monthly sales targets?
-
-  #### Data Transformation (Power Query)
-  - Connected to a CSV file containing raw sales data.
-  - Removed duplicate rows and handled missing values in the `Region` column.
-  - Created a new conditional column for 'Profit Margin Category' (Low, Medium, High).
-  - Unpivoted columns to transform the data from a wide to a long format for better analysis.
-
-  #### Key DAX Measures
-  - **Total Sales (YTD):** `Sales YTD = TOTALYTD(SUM(Sales[Revenue]), 'Date'[Date])`
-  - **Profit Margin %:** `Profit Margin % = DIVIDE(SUM(Sales[Profit]), SUM(Sales[Revenue]))`
-
-  #### Insights & Recommendations
-  1.  **Insight:** The 'Technology' category has the highest revenue but the lowest profit margin (12%).
-      - **Recommendation:** Review pricing for high-cost tech items to improve profitability.
-  2.  **Insight:** The West region consistently underperforms in Q4 compared to other regions.
-       - **Recommendation:** Launch a targeted marketing campaign in the West region in Q3 to boost holiday sales.
-  
-  ---
-</details>
