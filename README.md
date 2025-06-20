@@ -1,4 +1,6 @@
 <p align="center">
+
+*This repository contains my portfolio of Power BI projects, showcasing my end-to-end skills from data transformation in Power Query to building interactive dashboards*
   
 ## 🧭 Data Analytics Portfolio Projects
 *Click on any skill to jump to the relevant projects section.*
@@ -12,8 +14,7 @@
 ## 🚀 My Projects  
 *Here you will find a detailed list of my projects, categorized by the primary tool used.*
 
-## <a name="power-bi-projects"></a>📊 Power BI Projects
-   ## Project: Online Sales Overview – Bemidji Crafts Co.
+   ## Project 1: Online Sales Overview – Bemidji Crafts Co.
     This dynamic Power BI dashboard was developed to analyze and visualize online sales data for a local artisan shop. 
     The goal is to provide actionable insights into sales performance, product popularity, and customer behavior.
     
