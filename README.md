@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/></a>
   
 ## 🚀 My Projects  
-*Here are some of the projects I've worked on. Each project includes a link to a detailed breakdown of the process, from data sourcing to final insights.*
+*Here are some of the projects I've worked on. Each project includes a detailed breakdown of the process, from data sourcing to final insights.*
 
    ## Project 1: Online Sales Overview – Bemidji Crafts Co.
     This dynamic Power BI dashboard was developed to analyze and visualize online sales data for a local artisan shop. 
@@ -37,6 +37,8 @@
 
   **Dashboard Screenshot**
  ![**Sales Dashboard Screenshot**](https://github.com/antonjeeva5/power-bi-projects/blob/main/Online%20Sales%20Dashboard%20for%20Bemidji%20Crafts%20Co..png)
-  
-  ---
-  
+
+ </details>
+
+## Project 2: Retail Inventory Management Dashboard
+
