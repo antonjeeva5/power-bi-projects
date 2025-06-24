@@ -1,16 +1,7 @@
 <p align="center">
 
 *This repository contains my portfolio of Power BI projects, showcasing my end-to-end skills from data transformation in Power Query to building interactive dashboards*
-  
-## 🧭 Data Analytics Portfolio Projects
-*Click on any skill to jump to the relevant projects section.*
-<p align="left">
-<a href="#power-bi-projects">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/></a>
-&nbsp;&nbsp;
-<a href="#tableau-projects">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/></a>
-  
+
 ## 🚀 My Projects  
 *Here are some of the projects I've worked on. Each project includes a detailed breakdown of the process, from data sourcing to final insights.*
 
