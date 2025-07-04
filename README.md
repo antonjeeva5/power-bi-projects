@@ -27,7 +27,7 @@
 ![Skills Used](https://img.shields.io/badge/Skills%20Used%20:-FFFFFF?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-yellowgreen?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-yellowgreen?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-yellowgreen?style=flat-square) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-yellowgreen?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-yellowgreen?style=flat-square) ![Power Query](https://img.shields.io/badge/Power%20Query-yellowgreen?style=flat-square)
 
   **Dashboard Screenshot**
- ![**Sales Dashboard Screenshot**](Project 1: Online Sales Overview – Bemidji Crafts Co./Online Sales Dashboard for Bemidji Crafts Co..png)
+ ![**Sales Dashboard Screenshot**]([Project 1: Online Sales Overview – Bemidji Crafts Co./Online Sales Dashboard for Bemidji Crafts Co..png](https://github.com/antonjeeva5/power-bi-projects/blob/main/Project%201%3A%20Online%20Sales%20Overview%20%E2%80%93%20Bemidji%20Crafts%20Co./Online%20Sales%20Dashboard%20for%20Bemidji%20Crafts%20Co..png))
 
  </details>
 
