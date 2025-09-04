@@ -56,5 +56,15 @@
 
    **Dashboard Screenshot** ![**Sales Dashboard Screenshot**](https://github.com/antonjeeva5/power-bi-projects/blob/main/Retail%20store%20sales%20performance/Dashboard.png)
 
+ ## Business Questions:
+      * What are the key drivers of profit? Which product categories and sub-categories are the most and least profitable?
+
+      * How do sales trend over time? Are there clear seasonal patterns?
+
+      * Which geographical markets (Market, Region, Country) are performing best?
+
+      * What is the overall product return rate, and does it vary significantly by product category or region?
+
+      
   </details>   
 
