@@ -1,4 +1,4 @@
-## Project 2: Retail Inventory Management Dashboard
+## Project 2: Retail Store Sales Performance Dashboard
   This dynamic Power BI dashboard was developed to analyze and visualize sales data for mid-sized international
   retail company that sells products across three main categories: Office Supplies, Technology, and Furniture.
   The data provides a complete picture of the business, covering a four-year period from January 1, 2020, to December 31, 2023.
