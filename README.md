@@ -54,4 +54,7 @@
 
 ![Skills Used](https://img.shields.io/badge/Skills%20Used%20:-FFFFFF?style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-yellowgreen?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-yellowgreen?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-yellowgreen?style=flat-square) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-yellowgreen?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-yellowgreen?style=flat-square) ![Power Query](https://img.shields.io/badge/Power%20Query-yellowgreen?style=flat-square)
 
-    **Dashboard Screenshot** ![**Sales Dashboard Screenshot**]
+   **Dashboard Screenshot** ![**Sales Dashboard Screenshot**](https://github.com/antonjeeva5/power-bi-projects/blob/main/Retail%20store%20sales%20performance/Dashboard.png)
+
+  </details>   
+
